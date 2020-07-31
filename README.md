@@ -2,15 +2,15 @@
 
 
 # Career
-Hongik Univ. CE
-De2o Webservice Developer Intern  
-Samsung Electronics Software Developer Intern
+Hongik Univ. CE   
+De2o Webservice Developer Intern     
+Samsung Electronics Software Developer Intern     
 
 # Blog 
-https://imucoding.tistory.com/
+https://imucoding.tistory.com/      
 
 # Project
-Seoul Treasure (Android)
-HealRo (Webservice)
-PnP Safety (Webservice)
+Seoul Treasure (Android)     
+HealRo (Webservice)     
+PnP Safety (Webservice)      
 
