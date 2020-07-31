@@ -1,16 +1,16 @@
-### Hi there 👋
+# 안녕하세요 임현준이라고 합니다. 👋
 
-<!--
-**LimHyunJune/LimHyunJune** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# Career
+Hongik Univ. CE
+De2o Webservice Developer Intern  
+Samsung Electronics Software Developer Intern
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Blog 
+https://imucoding.tistory.com/
+
+# Project
+Seoul Treasure (Android)
+HealRo (Webservice)
+PnP Safety (Webservice)
+
