@@ -14,4 +14,7 @@ Seoul Treasure (Android)
 HealRo (Webservice)     
 PnP Safety (Webservice)         
    
+# Interest
+Japanese Culture (I have a working holiday experience in Japan.)
+
 현재 개인 프로젝트와 회사 프로젝트 관련 소스 및 자료는 비공개입니다. 
