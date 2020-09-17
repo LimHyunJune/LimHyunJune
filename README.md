@@ -13,8 +13,9 @@ https://imucoding.tistory.com/
 Seoul Treasure (Android)     
 HealRo (Webservice & mobile)     
 PnP Safety (Webservice)  
-Sanpomichi (Loation Services)                                                                                              
-Secure string search (Natural language processing) (~ing)
+Sanpomichi (Loation Services / tracking)                                                                                                                                       
+Secure string search (Natural language processing)
+해물사 (OCR) ~ing
 
 현재 개인 프로젝트와 회사 프로젝트 관련 소스 및 자료는 비공개입니다.     
    
