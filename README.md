@@ -4,14 +4,16 @@
 # Career
 Hongik Univ. CE   
 De2o Webservice Developer Intern     
-Samsung Electronics Software Developer Intern     
+Samsung Electronics Software Developer Intern
+De2o Freelancer Developer (OCR)
+Samsung Electronics VD Software Developer
 
 # Blog 
 https://imucoding.tistory.com/      
 
 # Project
 Seoul Treasure (Android)     
-HealRo (Webservice & mobile)     
+HealRo (Webservice & Machine Learning)     
 PnP Safety (Webservice)  
 Sanpomichi (Loation Services / tracking)                                                                                                                                       
 Secure string search (Natural language processing)                                                      
