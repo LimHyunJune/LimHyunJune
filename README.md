@@ -4,8 +4,8 @@
 # Career
 Hongik Univ. CE   
 De2o Webservice Developer Intern     
-Samsung Electronics Software Developer Intern
-De2o Freelancer Developer (OCR)
+Samsung Electronics Software Developer Intern                                             
+De2o Freelancer Developer (OCR)                                                             
 Samsung Electronics VD Software Developer
 
 # Blog 
