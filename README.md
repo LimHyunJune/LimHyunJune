@@ -6,7 +6,7 @@ Samsung Electronics Software Developer Intern
 Samsung Electronics VD Software Developer
 
 # Toy Project
-HealRo ~
+HealRo
 
 # Blog 
 https://imucoding.tistory.com/      
