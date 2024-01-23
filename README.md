@@ -6,7 +6,8 @@ Samsung Electronics Software Developer Intern
 Samsung Electronics VD Software Developer
 
 ### Interesting  
-System Automation, Solution Development  
+- System Automation, Solution Development  
+- Data Processing
 
 
 
