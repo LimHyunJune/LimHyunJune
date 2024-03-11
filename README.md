@@ -7,7 +7,7 @@ Samsung Electronics VD Software Developer
 
 ### Interesting  
 - System Automation, Solution Development  
-- Data Processing
+- Real-Time Data Pipelines Development
 
 
 
