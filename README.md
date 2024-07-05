@@ -8,7 +8,7 @@ Samsung Electronics VD Software Developer
 # Interesting  
 - System Automation, Solution Development  
 - Real-Time Data Pipelines Development
-
+<!--
 # Tech Stack
 <div>
 <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
@@ -44,3 +44,4 @@ Samsung Electronics VD Software Developer
 <img src="https://img.shields.io/badge/debezium-A81D33?style=for-the-badge&logo=debezium&logoColor=white">
 <img src="https://img.shields.io/badge/huggingface-FFD21E?style=for-the-badge&logo=huggingface&logoColor=white">
 </div>
+-->
